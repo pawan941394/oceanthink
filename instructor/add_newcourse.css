@@ -1,0 +1,13 @@
+@media only screen and (max-width:800px) {
+    .pb-5 {
+        padding-bottom: 2rem!important;
+        margin-top: 6vh;
+    }
+}
+
+@media only screen and (max-width:600px) {
+    .bs-stepper-header {
+        flex-wrap: wrap;
+        max-width: 69vh;
+    }
+}
