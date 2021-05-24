@@ -1,0 +1,14 @@
+.course_details {
+    margin-top: 19vh;
+}
+
+h2,
+h4,
+h3,
+span {
+    color: white;
+}
+
+.text-inherit {
+    color: whitesmoke;
+}

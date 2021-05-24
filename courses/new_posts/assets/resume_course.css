@@ -1,0 +1,136 @@
+.resume_course {
+    margin-top: 3vh;
+    margin-bottom: 21vh;
+}
+
+h2,
+h4,
+h3,
+span {
+    color: white;
+}
+
+.text-inherit {
+    color: whitesmoke;
+}
+
+@media only screen and (max-width:1000px) {
+    .col-12 {
+        flex: 0 0 auto;
+        width: 100%;
+        margin-top: m;
+        margin-bottom: 109vh;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    .course-container .content {
+        position: relative;
+        left: 0;
+        margin-left: 0.25rem;
+    }
+    .container,
+    .container-sm {
+        max-width: 690px;
+    }
+}
+
+@media only screen and (max-width:1350px) {
+    .course-container .content {
+        padding-right: 1.25rem;
+        max-width: 137vh;
+        margin: auto;
+        justify-content: center;
+        align-items: center;
+        margin-left: 36%;
+    }
+}
+
+@media (max-width: 1200px) {
+    .course-container .content .embed-responsive {
+        height: calc(119vh - 164px)!important;
+    }
+    .course-container .content {
+        padding-right: 1.25rem;
+        max-width: 137vh;
+        margin: auto;
+        justify-content: center;
+        align-items: center;
+        margin-left: 40%;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .course-container .content {
+        max-width: 137vh;
+        margin-left: 2%;
+    }
+}
+
+@media only screen and (max-width:775px) {
+    .course-sidebar {
+        width: 92%;
+        top: 4.34rem;
+        position: relative;
+        margin-top: -117vh;
+        margin-bottom: 12vh;
+        margin-left: 16px;
+    }
+}
+
+@media only screen and (max-width:670px) {
+    .embed-responsive {
+        height: 358px;
+    }
+    .h-100 {
+        height: 51%!important;
+    }
+}
+
+@media only screen and (max-width:600px) {
+    .embed-responsive {
+        height: 323px;
+    }
+    .course-sidebar {
+        width: 92%;
+        top: 4.34rem;
+        margin-top: -161vh;
+        margin-bottom: 12vh;
+        margin-left: 16px;
+    }
+}
+
+
+/* @media only screen and (max-width: 504px) {
+                .h-100 {
+                    height: 62%!important;
+                }
+            }
+             */
+
+@media only screen and (max-width: 510px) {
+    .h-100 {
+        height: 43%!important;
+        margin-left: 11px;
+    }
+}
+
+
+/* @media only screen and (max-width: 400px) {
+            .h-100 {
+                height: 51%!important;
+            }
+        } */
+
+@media only screen and (max-width: 380px) {
+    .h-100 {
+        height: 36%!important;
+        margin-left: 7px;
+    }
+    .course-sidebar {
+        top: 4.34rem;
+        margin-top: -173vh;
+        margin-bottom: 12vh;
+        margin-left: 16px;
+    }
+}

@@ -1,0 +1,15 @@
+.checkout {
+    margin-top: 19vh;
+}
+
+h2,
+h4,
+h3,
+.form-label,
+.fw-bold {
+    color: white;
+}
+
+.text-inherit {
+    color: whitesmoke;
+}
