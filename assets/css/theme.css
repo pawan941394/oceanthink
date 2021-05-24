@@ -1,0 +1,92 @@
+.theme1 {
+    --bg-inv: #e1f0fa;
+    --bg1: #fdfdfd;
+    --bg2: #fdfdfd;
+    --bg3: #ecf9f0;
+    --color1: #484848;
+    --color2: #757575;
+    --color3: #000;
+    --vbgc: rgb(26 41 69 / 34%);
+    --input-border: #757575;
+    --box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
+    --lp-company-images-bg: #fdfdfd;
+    --line: #F8423D;
+    --icon: #9e9e9e !important;
+    --ace-op: black;
+    --ace-kw: #930f80;
+    --ace-meta: #099;
+    --ace-fn: #ff6400;
+    --ace-cloudes: #6c71c4;
+    --ace-comment: #068015;
+    --ace-storage: #d61313;
+    --ace-cursor: #15f301;
+}
+.theme2 {
+    --bg1: #28313e;
+    --bg-inv: #061e2b;
+    --bg2: #1b262c;
+    --bg3: #28313e;
+    --lp-company-images-bg: #061e2b;
+    --color1: #d8d3d3;
+    --color2: #757575;
+    --color3: #fff;
+    --vbgc: rgba(22,34,57,0.85);
+    --input-border: #757575;
+    --line: #2e775a;
+    --icon: #4dbd90 !important;
+    --box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.2);
+    --ace-op: white;
+    --ace-kw: #fbde2d;
+    --ace-meta: #55b5db;
+    --ace-fn: #ff6400;
+    --ace-cloudes: #c792ea;
+    --ace-comment: #48b685;
+    --ace-storage: #d61313;
+    --ace-cursor: #15f301;
+}
+.theme3 {
+    --bg1: #0e1323;
+    --bg-inv: #0e0f2d;
+    --bg2: #000720;
+    --bg3: #0e1323;
+    --lp-company-images-bg: #0e0f2d;
+    --vbgc: rgba(22,34,57,0.85);
+    --color1: #d8d3d3;
+    --color2: #757575;
+    --color3: #fff;
+    --input-border: #757575;
+    --line: #737b2f;
+    --icon: #beda23 !important;
+    --box-shadow: 0 0 29px 0 rgb(7 7 25);
+    --ace-op: white;
+    --ace-kw: #f329ed;
+    --ace-meta: #2bab9f;
+    --ace-fn: #49ff57;
+    --ace-cloudes: #c792ea;
+    --ace-comment: #48b685;
+    --ace-storage: #b7482f;
+    --ace-cursor: #15f301;
+}
+.theme4 {
+    --bg1: #1F2833;
+    --bg-inv: #131f21;
+    --bg2: #0B0C10;
+    --bg3: #1F2833;
+    --lp-company-images-bg: #131f21;
+    --vbgc: rgba(22,34,57,0.85);
+    --color1: #c7c6c7;
+    --color2: #45A29E;
+    --color3: #fff;
+    --input-border: #45A29E;
+    --line: #275d5a;
+    --icon: #66FCF1 !important;
+    --box-shadow: 0 0 29px 0 rgb(33 38 45,0.5);
+    --ace-op: white;
+    --ace-kw: #ff0e88;
+    --ace-meta: #ddc4ff;
+    --ace-fn: #0ee2c5;
+    --ace-cloudes: #c792ea;
+    --ace-comment: #48b685;
+    --ace-storage: #d9ba49;
+    --ace-cursor: #15f301;
+}
