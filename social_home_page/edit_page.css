@@ -1,0 +1,43 @@
+.side_profile {
+    max-width: 51vh;
+}
+
+.editable {
+    max-width: 109vh;
+}
+
+.edit_container {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    padding: 15vh;
+    max-width: 100%;
+}
+
+.rounded-circle {
+    border-radius: 50%!important;
+    margin: auto;
+}
+
+@media only screen and (max-width:1200px) {
+    .edit_container {
+        padding: 0vh;
+        max-width: 100%;
+        margin-top: 22vh;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    .row {
+        width: 100%;
+    }
+    .side_profile {
+        max-width: 81vh;
+        margin: auto;
+    }
+    .editable {
+        max-width: 109vh;
+        padding: 20px;
+    }
+}
